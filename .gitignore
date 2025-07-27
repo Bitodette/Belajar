@@ -2,3 +2,5 @@
 *.out
 *.o
 a.out
+task*
+!*.cpp
